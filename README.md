@@ -25,7 +25,7 @@ The solution is built using n8n (low-code automation) and Google Gemini.
 - Google Gemini API key
 
 ### Steps
-1. Import `automation/nExecutive Assistant Job Outreach Automation.json` into n8n
+1. Import `automation/Executive Assistant Job Outreach Automation.json` into n8n
 2. Configure Google Sheets credentials
 3. Configure Gemini API credentials
 4. Activate the workflow
@@ -52,3 +52,9 @@ See `automation/scheduling.md` for details.
 - Ensure jobUrl values are unique
 - Verify Google Sheets column names match workflow fields
 - Check n8n execution logs for failed nodes
+
+---
+
+## Author
+
+Built by [Allan Mwenja Mahianyu](https://www.allanmwenja.com/). More of my work is on [GitHub](https://github.com/mahianyuallan).
